@@ -1,7 +1,7 @@
 # Home Disconnect
 
-> [!NOTE]
-> This is the 1.x library, kept for maintenance of the 1.x releases on PyPI. Version 2.0.0 onwards is a separately written, MIT-licensed library that lives at [vemboy200/home-disconnect](https://github.com/vemboy200/home-disconnect).
+> [!IMPORTANT]
+> This library is no longer worked on. It has no license, so it can't be used in Home Assistant core. It's replaced by [vemboy200/home-disconnect](https://github.com/vemboy200/home-disconnect), a separately written, MIT-licensed library, from version 2.0.0 onwards.
 
 Control Home Connect Appliances through a local Websocket connection.
 
