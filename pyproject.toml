@@ -17,8 +17,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/vemboy200/home-disconnect"
-Issues = "https://github.com/vemboy200/home-disconnect/issues"
+Homepage = "https://github.com/vemboy200/home-disconnect-old"
+Issues = "https://github.com/vemboy200/home-disconnect-old/issues"
 
 [project.scripts]
 hc-parser = "home_disconnect:description_parser.main"

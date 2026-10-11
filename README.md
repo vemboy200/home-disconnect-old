@@ -1,5 +1,8 @@
 # Home Disconnect
 
+> [!NOTE]
+> This is the 1.x library, kept for maintenance of the 1.x releases on PyPI. Version 2.0.0 onwards is a separately written, MIT-licensed library that lives at [vemboy200/home-disconnect](https://github.com/vemboy200/home-disconnect).
+
 Control Home Connect Appliances through a local Websocket connection.
 
 Used by [homeconnect_local_hass](https://github.com/vemboy200/homeconnect_local_hass), the Home Assistant integration this library was extracted for.
